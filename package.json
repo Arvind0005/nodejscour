@@ -1,0 +1,24 @@
+{
+  "name": "nodejscor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arvind0005/nodejscour.git"
+  },
+  "author": "Arvind S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arvind0005/nodejscour/issues"
+  },
+  "homepage": "https://github.com/Arvind0005/nodejscour#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21"
+  }
+}
